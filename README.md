@@ -7,46 +7,58 @@ CrowdFunding Platform is a decentralized crowdfunding application that enables t
 This platform eliminates middlemen and increases transparency between creators and supporters through DAO-based governance and smart contract automation.
 
 ✨ Key Features
+
 🔐 Blockchain-Powered Crowdfunding
 Smart contract-based project funding
 Secure and transparent transactions
 Immutable crowdfunding records
+
 🗳️ DAO Milestone Voting
 Backers vote to approve milestone completion
 Funds released only after successful voting
 Decentralized decision-making system
+
 💸 Refund Protection
 Refund mechanisms for failed projects
 Improved trust between creators and investors
 Transparent funding lifecycle
+
 📦 IPFS & Decentralized Storage
 Decentralized media and project data storage
 Improved reliability and transparency
+
 🤖 AI-Powered Features
 AI cover editor integration
 Enhanced campaign presentation
+
 📊 Modern Dashboard UI
 Responsive and interactive interface
 Clean project cards and milestone tracking
 Real-time user interaction experience
+
 🛠️ Tech Stack
+
 Frontend
 ⚛️ React.js
 📘 TypeScript
 ⚡ Vite
 🎨 Tailwind CSS
 🧩 shadcn/ui
+
 Blockchain
 ⛓️ Solidity Smart Contracts
 🦾 Hardhat
 🌐 Ethereum/Web3
+
 Backend & Storage
 🟢 Supabase
 📂 IPFS Integration
+
 Development Tools
 ESLint
 Prettier
 Bun
+
 📸 Platform Highlights
 
 ✅ Decentralized crowdfunding
@@ -62,12 +74,15 @@ Bun
 ✅ AI-enhanced campaign creation
 
 ✅ Responsive modern UI
+
 👩‍💻 Author
+
 Divyadharshini
 
 🔗 GitHub: https://github.com/Divyadharshini-03r
 
 📁 Repository: https://github.com/Divyadharshini-03r/CrowdFunding-Platform
+
 📜 License
 
 This project is developed for educational and learning purposes.
