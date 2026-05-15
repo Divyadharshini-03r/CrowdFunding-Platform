@@ -1,5 +1,6 @@
-💰 Decentralized Milestone-Based Crowdfunding DAO Platform
+                                  💰 Decentralized Milestone-Based Crowdfunding DAO Platform
 ⚡ Trustless Funding • DAO Governance • Milestone Voting • Smart Contracts
+
 🌟 Overview
 
 CrowdFunding Platform is a decentralized crowdfunding application that enables transparent and trustless fundraising using blockchain technology. Instead of releasing all funds at once, backers vote milestone-by-milestone before funds are unlocked for project creators.
