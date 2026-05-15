@@ -1,5 +1,6 @@
                                   💰 Decentralized Milestone-Based Crowdfunding DAO Platform
-⚡ Trustless Funding • DAO Governance • Milestone Voting • Smart Contracts
+                                  
+                        ⚡ Trustless Funding • DAO Governance • Milestone Voting • Smart Contracts
 
 🌟 Overview
 
