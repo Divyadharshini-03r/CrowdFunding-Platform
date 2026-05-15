@@ -38,23 +38,23 @@ Real-time user interaction experience
 
 🛠️ Tech Stack
 
-Frontend
+Frontend-
 ⚛️ React.js
 📘 TypeScript
 ⚡ Vite
 🎨 Tailwind CSS
 🧩 shadcn/ui
 
-Blockchain
+Blockchain-
 ⛓️ Solidity Smart Contracts
 🦾 Hardhat
 🌐 Ethereum/Web3
 
-Backend & Storage
+Backend & Storage-
 🟢 Supabase
 📂 IPFS Integration
 
-Development Tools
+Development Tools-
 ESLint
 Prettier
 Bun
