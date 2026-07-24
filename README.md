@@ -1,5 +1,5 @@
 # 💖 CrowdFundX
-### *Empowering Dreams Through Community Support*
+                                         ### *Empowering Dreams Through Community Support*
 
 <div align="center">
 
