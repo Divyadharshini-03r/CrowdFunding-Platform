@@ -1,5 +1,8 @@
 # 💰 CrowdFundAO
+
+<div align="center">
 ### *Empowering Dreams Through Community Support!*
+</div>
 
 <div align="center">
 
