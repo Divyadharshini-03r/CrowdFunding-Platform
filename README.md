@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=🚀+CrowdFundX;💖+Empowering+Ideas+Through+Crowdfunding;🌍+Connecting+Dreamers+with+Supporters;💸+Every+Contribution+Creates+Impact" />
-
 <p align="center">
 <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
