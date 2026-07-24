@@ -315,7 +315,7 @@ This project demonstrates expertise in:
 
 # 🌍 Real-World Impact
 
-CrowdFundX enables:
+CrowdFundAO enables:
 
 ❤️ Social Impact
 
@@ -334,8 +334,6 @@ CrowdFundX enables:
 # 👩‍💻 Developer
 
 ## **Divyadharshini R**
-
-💻 Full Stack Developer
 
 🎨 UI/UX Designer
 
