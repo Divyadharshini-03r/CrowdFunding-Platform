@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
-<img src="https://img.shields.io/badge/Responsive-✔️-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge"/>
 </p>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="320"/>
